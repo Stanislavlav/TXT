@@ -1,1 +1,8 @@
-
+  id -- 001
+	summary -- в файле bug_report.json присутствует текст не формата .json
+	priority -- critical
+	environment -- Windows 10 LTSC, Yandex browser ver. 22.3.3.852
+	steps reproduce -- 1. Открыть документ bug_report.json программой Notepad++. 
+                     2. Написать баг-репорт в формате json
+	actual result -- в документе присутствует текст не формата json
+	expected result -- в документе присуствует только формат json
