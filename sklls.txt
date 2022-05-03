@@ -1,0 +1,5 @@
+ 	ability -- find of information in google
+        ability -- reading_documentation
+        ability -- software_testing
+        abilitt -- communication
+        ability -- assiduty
