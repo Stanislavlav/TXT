@@ -1,5 +1,5 @@
 
-	ferst name -- Stanislav
+	first name -- Stanislav
         last name -- Sava
         patronymic -- Sergeevich
         age -- 36 
