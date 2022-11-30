@@ -1,6 +1,6 @@
 
 	ferst name -- Stanislav
-        last name -- Salokhin
+        last name -- Sava
         patronymic -- Sergeevich
         age -- 36 
         pets -- 1 
