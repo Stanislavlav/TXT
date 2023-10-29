@@ -1,5 +1,0 @@
-	film -- 99 francs 
-        food -- potatoes with chiken
-        tv series -- the walking dead
-        favorite time of the year -- winter
-        my favorite coutry -- USA

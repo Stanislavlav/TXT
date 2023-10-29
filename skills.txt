@@ -1,5 +1,0 @@
- 	ability -- search_of_information_in_google
-        ability -- read_documentation
-        ability -- software_testing
-        abilitt -- communication
-        ability -- friendly

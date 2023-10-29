@@ -1,7 +1,0 @@
-
-	first name -- Stanislav
-        last name -- Sava
-        patronymic -- Sergeevich
-        age -- 36 
-        pets -- 1 
-        salary -- $500
